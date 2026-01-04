@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6581c028f5beec04b833839ae09e653a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165950
+  packageName: Arcade Room
+  packageVersion: 1.0
+  assetPath: Assets/Arcade/Prefabs/NeonSign.prefab
+  uploadId: 360876

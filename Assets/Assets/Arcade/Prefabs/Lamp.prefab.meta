@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f76b59afe8ba8dc43a16ecde3571e10c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165950
+  packageName: Arcade Room
+  packageVersion: 1.0
+  assetPath: Assets/Arcade/Prefabs/Lamp.prefab
+  uploadId: 360876

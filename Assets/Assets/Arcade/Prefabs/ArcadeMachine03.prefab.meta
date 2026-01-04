@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9437dac6606e73c43b196fc45b0a1df3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165950
+  packageName: Arcade Room
+  packageVersion: 1.0
+  assetPath: Assets/Arcade/Prefabs/ArcadeMachine03.prefab
+  uploadId: 360876

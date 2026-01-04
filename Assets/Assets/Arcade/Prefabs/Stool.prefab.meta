@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 641d00f976ebc584e985da823996d377
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165950
+  packageName: Arcade Room
+  packageVersion: 1.0
+  assetPath: Assets/Arcade/Prefabs/Stool.prefab
+  uploadId: 360876

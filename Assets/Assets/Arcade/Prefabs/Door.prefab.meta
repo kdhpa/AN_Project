@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58c753a95fadf8943a7789129929b788
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165950
+  packageName: Arcade Room
+  packageVersion: 1.0
+  assetPath: Assets/Arcade/Prefabs/Door.prefab
+  uploadId: 360876

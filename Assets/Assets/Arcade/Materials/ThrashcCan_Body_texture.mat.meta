@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82a7a66e3a73b7e4ea7594344e9e5d0e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165950
+  packageName: Arcade Room
+  packageVersion: 1.0
+  assetPath: Assets/Arcade/Materials/ThrashcCan_Body_texture.mat
+  uploadId: 360876

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c5e70fbb16bc2054dbf8830a2f8ec317
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165950
+  packageName: Arcade Room
+  packageVersion: 1.0
+  assetPath: Assets/Arcade/Prefabs/FireExit_Sign.prefab
+  uploadId: 360876

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d4441aae872ccab45861d1a015399e2b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165950
+  packageName: Arcade Room
+  packageVersion: 1.0
+  assetPath: Assets/Arcade/Materials/ArcadeMachine_2_COL_ED.mat
+  uploadId: 360876

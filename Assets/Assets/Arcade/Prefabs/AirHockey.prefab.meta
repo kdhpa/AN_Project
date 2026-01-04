@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e9afaa9ffa15eb84da90a978eff5b768
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165950
+  packageName: Arcade Room
+  packageVersion: 1.0
+  assetPath: Assets/Arcade/Prefabs/AirHockey.prefab
+  uploadId: 360876
