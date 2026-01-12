@@ -295,7 +295,10 @@ MonoBehaviour:
           m_CustomPostProcessTypesAsString: []
         m_AfterPostProcessCustomPostProcesses:
           m_InjectionPoint: 2
-          m_CustomPostProcessTypesAsString: []
+          m_CustomPostProcessTypesAsString:
+          - Pixelation, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          - PSX.PixelationEffect, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+            PublicKeyToken=null
     - rid: 4256610894426931206
       type: {class: RenderGraphSettings, ns: UnityEngine.Rendering.HighDefinition, asm: Unity.RenderPipelines.HighDefinition.Runtime}
       data:
